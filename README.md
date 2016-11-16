@@ -31,9 +31,9 @@
 
 ### Javascript/ framework
 
-* 對原生JavaScript有基礎及Design pattern的了解。
+* 對原生JavaScript及Design pattern有基礎的了解。
 * BootStrap- 在前公司使用BootStrap幫客戶開發網站。
-* AngularJS- 用AngularJS做到model及view的binding，並以service串接後台資料。
+* AngularJS- 使用AngularJS以model及view做到data binding，並以service串接後台資料。
 * jQuery- 會使用 Jquery 做動畫效果、Ajax抓取第三方API資料及套用plugin在網頁上。
 
 ### Git/ GitHub

@@ -26,9 +26,9 @@
 
 ## portfolio
 
-* [六角西餐廳](https://bearkern.github.io/Hex-western-restaurant-RWD/index.html)
+* [六角西餐廳](https://bearkern.github.io/Hex-western-restaurant-RWD/)
   * RWD排版
-* [高雄旅遊資訊](https://bearkern.github.io/Kaosiung-tour-guide/index.html)
+* [高雄旅遊資訊](https://bearkern.github.io/Kaohsiung-tour-guide/)
   * 利用AJAX取得JSON資料
-* [BMI Calculator](https://bearkern.github.io/BMI-calculator/index.html)
+* [BMI Calculator](https://bearkern.github.io/BMI-calculator/)
   * 利用localStorage儲存資料

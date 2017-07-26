@@ -23,3 +23,12 @@
 * AngularJS- 使用AngularJS開發Single Page Application
 * jQuery- plugin, animation
 * Git/ GitHub
+
+## portfolio
+
+* [六角西餐廳](https://bearkern.github.io/Hex-western-restaurant-RWD/)
+  * RWD排版
+* [高雄旅遊資訊](https://bearkern.github.io/Kaosiung-tour-guide/)
+  * 利用AJAX取得JSON資料
+* [BMI Calculator](https://bearkern.github.io/BMI-calculator/)
+  * 利用localStorage儲存資料

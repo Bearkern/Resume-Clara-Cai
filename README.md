@@ -1,7 +1,7 @@
 # 蔡皓琳 (Clara Cai)
 
 * Birthday：12/24
-* Education：私立南臺科技大學- 資管系(輔修- 視覺傳達設計系)
+* Education：私立南臺科技大學 - 資管系(輔修- 視覺傳達設計系)
 * Personal Website：https://github.com/Bearkern
 * Location : 台北市
 * E-Mail : haolin1224@gmail.com
@@ -17,18 +17,21 @@
 
 ## Front-End Engineer Skills
 
-* LESS/ RWD website layout design
+* LESS / RWD website layout design
 * Native JavaScript& Design pattern
-* BootStrap- 在前公司使用BootStrap幫客戶開發網站
-* AngularJS- 使用AngularJS開發Single Page Application
-* jQuery- plugin, animation
-* Git/ GitHub
+* BootStrap - 在前公司使用BootStrap幫客戶開發網站
+* AngularJS - 使用AngularJS開發Single Page Application
+* jQuery - plugin, animation
+* Git / GitHub
 
 ## portfolio
 
 * [六角西餐廳](https://bearkern.github.io/Hex-western-restaurant-RWD/)
-  * RWD排版
+  * 手刻響應式網頁設計，並可兼容pad、iPhone
 * [高雄旅遊資訊](https://bearkern.github.io/Kaohsiung-tour-guide/)
-  * 利用AJAX取得JSON資料
+  * 利用AJAX介接JSON資料
+  * 介接open data API
+  * 點選區域可得到該區相關旅遊資訊
 * [BMI Calculator](https://bearkern.github.io/BMI-calculator/)
   * 利用localStorage儲存資料
+  * 輸入身高及體重，計算BMI數值並紀錄身體狀態

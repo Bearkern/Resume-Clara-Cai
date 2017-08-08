@@ -17,7 +17,7 @@
 ## Front-End Engineer Skills
 
 * LESS / RWD website layout design
-* Native JavaScript & Design pattern
+* 研究過 Native JavaScript & Design pattern
 * BootStrap - 在前公司使用 BootStrap 幫客戶開發網站
 * AngularJS - 使用 AngularJS 開發 Single Page Application
 * jQuery - plugin, animation
@@ -27,10 +27,11 @@
 
 * [六角西餐廳](https://bearkern.github.io/Hex-western-restaurant-RWD/)
   * 手刻響應式網頁設計，並可兼容 pad、iPhone
-* [高雄旅遊資訊](https://bearkern.github.io/Kaohsiung-tour-guide/)
+* [高雄旅遊資訊](https://bearkern.github.io/Kaohsiung-tour-map/)
   * 利用 AJAX 介接 JSON 資料
   * 介接 open data API
   * 點選區域可得到該區相關旅遊資訊
+  * Google maps API 串接及定位
 * [BMI Calculator](https://bearkern.github.io/BMI-calculator/)
   * 利用 localStorage 儲存資料
   * 輸入身高及體重，計算 BMI 數值並紀錄身體狀態

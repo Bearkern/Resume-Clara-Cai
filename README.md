@@ -7,6 +7,9 @@
 
 ## Work Experience
 
+#### 利快安- 2017/09/04 ~ now
+* 使用 Electron 及前端技能完成桌面 GUI 應用程式
+
 #### 伈創資訊- 2016/08/01 ~ 2016/11/18
 
 * 使用 AngularJS framework 完成使用者體驗及網頁效果。
@@ -22,6 +25,7 @@
 * AngularJS - 使用 AngularJS 開發 Single Page Application
 * jQuery - plugin, animation
 * Git / GitHub
+* Electron
 
 ## Portfolio
 

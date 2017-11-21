@@ -7,10 +7,12 @@
 
 ## Work Experience
 
-#### 利快安- 2017/09/04 ~ now
-* 使用 Electron 及前端技能完成桌面 GUI 應用程式
+#### 利快安 - 2017/09/04 ~ 2017/11/17
+* 使用 Electron 及前端技能完成桌面 GUI 應用程式。
+* Mobile, desktop web layout 開發。
+* JavaScript Vue SPA 設計。
 
-#### 伈創資訊- 2016/08/01 ~ 2016/11/18
+#### 伈創資訊 - 2016/08/01 ~ 2016/11/18
 
 * 使用 AngularJS framework 完成使用者體驗及網頁效果。
 * 能依設計圖設計出前端介面，並與 UI 設計師討論元件效果。
@@ -39,3 +41,5 @@
 * [BMI Calculator](https://bearkern.github.io/BMI-calculator/)
   * 利用 localStorage 儲存資料
   * 輸入身高及體重，計算 BMI 數值並紀錄身體狀態
+* [Electron project](https://www.dropbox.com/sh/e9ywcqrnq0dhcpq/AAALC0VXU2vhjKp_wYEBi0cGa?dl=0)
+  * 使用 Electron 及前端技能完成桌面 GUI 應用程式。

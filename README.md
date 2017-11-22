@@ -17,7 +17,7 @@
 * 使用 AngularJS framework 完成使用者體驗及網頁效果。
 * 能依設計圖設計出前端介面，並與 UI 設計師討論元件效果。
 * 使用版本控制系統 Git 進行專案版控。
-* 自 4/9 ~ 4/30 於飛肯設計學院進修原生 JavaScript 課程。
+* 自 9/4 ~ 9/30 於飛肯設計學院進修原生 JavaScript 課程。
 
 ## Front-End Engineer Skills
 

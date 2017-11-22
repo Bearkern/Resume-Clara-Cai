@@ -7,12 +7,12 @@
 
 ## Work Experience
 
-#### 利快安 - 2017/09/04 ~ 2017/11/17
+#### Levarion - 2017/09/04 ~ 2017/11/17
 * 使用 Electron 及前端技能完成桌面 GUI 應用程式。
 * Mobile, desktop web layout 開發。
 * JavaScript Vue SPA 設計。
 
-#### 伈創資訊 - 2016/08/01 ~ 2016/11/18
+#### Syntrontech - 2016/08/01 ~ 2016/11/18
 
 * 使用 AngularJS framework 完成使用者體驗及網頁效果。
 * 能依設計圖設計出前端介面，並與 UI 設計師討論元件效果。
@@ -21,8 +21,8 @@
 
 ## Front-End Engineer Skills
 
-* LESS / RWD website layout design
-* 研究過 Native JavaScript & Design pattern
+* SCSS / RWD website layout design
+* 研究過 Native JavaScript & JavaScript Design pattern
 * BootStrap - 在前公司使用 BootStrap 幫客戶開發網站
 * AngularJS - 使用 AngularJS 開發 Single Page Application
 * jQuery - plugin, animation

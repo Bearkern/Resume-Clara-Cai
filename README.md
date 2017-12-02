@@ -21,16 +21,20 @@
 
 ## Front-End Engineer Skills
 
+* Electron
 * SCSS / RWD website layout design
 * 研究過 Native JavaScript & JavaScript Design pattern
 * BootStrap - 在前公司使用 BootStrap 幫客戶開發網站
 * AngularJS - 使用 AngularJS 開發 Single Page Application
 * jQuery - plugin, animation
 * Git / GitHub
-* Electron
 
 ## Portfolio
 
+* [Electron Desktop App](https://www.dropbox.com/sh/e9ywcqrnq0dhcpq/AAALC0VXU2vhjKp_wYEBi0cGa?dl=0)
+  * 使用 Electron 及前端技能完成桌面 GUI 應用程式。
+  * Web layout design
+  * Multiple language
 * [六角西餐廳](https://bearkern.github.io/Hex-western-restaurant-RWD/)
   * 手刻響應式網頁設計，並可兼容 pad、iPhone
 * [高雄旅遊資訊](https://bearkern.github.io/Kaohsiung-tour-map/)
@@ -41,5 +45,3 @@
 * [BMI Calculator](https://bearkern.github.io/BMI-calculator/)
   * 利用 localStorage 儲存資料
   * 輸入身高及體重，計算 BMI 數值並紀錄身體狀態
-* [Electron project](https://www.dropbox.com/sh/e9ywcqrnq0dhcpq/AAALC0VXU2vhjKp_wYEBi0cGa?dl=0)
-  * 使用 Electron 及前端技能完成桌面 GUI 應用程式。

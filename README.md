@@ -2,15 +2,18 @@
 
 * Education：私立南臺科技大學 - 資管系(輔修 - 視覺傳達設計系)
 * Personal Website：https://github.com/Bearkern
-* Location : 台北市
+* Location : 新北市
 * E-Mail : haolin1224@gmail.com
 
 ## Work Experience
 
+#### Taisys - 2018/01 ~ 2019/01
+* 使用 AngularJS framework 維護及建立系統頁面。
+* 維護 php 官網。
+
 #### Levarion - 2017/09/04 ~ 2017/11/17
 * 使用 Electron 及前端技能完成桌面 GUI 應用程式。
 * Mobile, desktop web layout 開發。
-* JavaScript Vue SPA 設計。
 
 #### Syntrontech - 2016/08/01 ~ 2016/11/18
 
